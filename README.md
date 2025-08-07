@@ -18,6 +18,4 @@
 
 ✉️ Email: [ahmedMedhatsalah1@outlook.com](mailto:ahmedMedhatsalah1@outlook.com)
 
----
 
-![Ahmed Medhat’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedmedhat12345&show_icons=true&theme=radical)
