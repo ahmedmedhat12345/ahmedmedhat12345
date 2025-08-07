@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋, I’m Ahmed Medhat!
 
-<!--
-**ahmedmedhat12345/ahmedmedhat12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Scientist** | 🐍 **Python** | 📊 **R** | 🗄️ **SQL** | 💻 **C++** | ☕ **Java (basic)** | 📟 **C (basic)**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages & Tools
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sqlite)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
+
+---
+
+### 📫 How to reach me
+
+✉️ Email: [ahmedMedhatsalah1@outlook.com](mailto:ahmedMedhatsalah1@outlook.com)
+
+---
+
+![Ahmed Medhat’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedmedhat12345&show_icons=true&theme=radical)
